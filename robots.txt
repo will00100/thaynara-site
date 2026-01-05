@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.thayanaraaraujopsico.com.br/sitemap.xml
